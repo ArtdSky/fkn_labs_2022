@@ -15,5 +15,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Marvel"
+rootProject.name = "fkn_labs_2022"
 include ':app'
